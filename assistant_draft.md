@@ -7,3 +7,12 @@ A problem area I care deeply about is improving data science and automation work
 - Use generative AI to automate repetitive data cleaning, transformation, and documentation tasks.
 - Use generative AI to draft clear summaries of analyses, trends, and key findings for technical and non-technical stakeholders.
 - Use generative AI to speed up experimentation by generating workflow templates, baseline models, and comparison reports.
+
+
+
+---
+## Here was my prompt: 
+"can you write into a file in my github repo, you need to add content to the assistant file: a short title - one short paragraph introducing you - one short paragraph describing an industry, function, or problem area you care about - one short bullet list of 3 ways generative AI might be useful in that area
+I am a MS student at JHU in ISAI and i am passionate about data science and automation. if you need more context please ask"
+
+The assistant mistook my instructions and originally created the draft in a JHU agent perspective. I was very confused when I first saw the initial draft since I did not include anything like that in the instructions, so I had to clarify! Besides the initial hiccup, everything else went well. The assistant saved me so much time in creating the draft well. 
