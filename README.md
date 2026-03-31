@@ -12,5 +12,5 @@ This repo contains the first homework assignment for my Generative AI class. I u
 
 ---
 ### Video Link
-[Link Text](https://www.youtube.com/watch?v=LJQHvcsmo_s)
+[Unlisted Video Link Here](https://www.youtube.com/watch?v=LJQHvcsmo_s)
 
